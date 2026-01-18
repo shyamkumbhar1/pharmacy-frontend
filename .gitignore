@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
+# AWS Credentials (parent directory)
+../aws/*_accessKeys.csv
+../aws/*.pem
+../aws/*.key
